@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: UA-77255350-1
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: ryanclbryant
+favicon: null
+layout_spectrum: 0.8949
+typography_spectrum: 0.84866
 collections:
   - index:
       path: /
@@ -18,24 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.8949
 title: Ryan Bryant
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: UA-77255350-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.684160994598642
-  brandStrength: 0.5630101326387376
-  rhythmicContrast: 0.4344912136439234
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+  brandStrength: 0.5630101326387376
   lightness: 0.2176770337391645
+  saturation: 0.684160994598642
+  rhythmicContrast: 0.4344912136439234
 purpose: []
-favicon: null
-name: ryanclbryant
-typography_spectrum: 0.84866
